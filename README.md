@@ -14,7 +14,7 @@
 * Ao propagar o banco ele já vem com usuário cadastrado:
 
 ```
-Email: admin@admin.com,
+Email: admin@admin.com
 Senha: 12345678
 ```
 
